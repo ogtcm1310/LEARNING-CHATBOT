@@ -1,0 +1,122 @@
+{
+  "greetings": {
+    "hi": "Hello! How are you today?",
+    "hello": "Hi there! What’s up?",
+    "hey": "Hey! How's it going?",
+    "good morning": "Good morning! Hope you have a great day.",
+    "good afternoon": "Good afternoon! How’s everything?",
+    "good evening": "Good evening! How was your day?",
+    "good night": "Good night! Sleep well.",
+    "what's up": "Not much, just here chatting with you!",
+    "how are you": "I'm doing great! How about you?",
+    "long time no see": "Indeed! How have you been?"
+  },
+  "emotions": {
+    "im happy": "That's wonderful! Keep smiling :)",
+    "i am happy": "Great to hear! Happiness is contagious.",
+    "im sad": "I'm here for you. Want to talk about it?",
+    "i am sad": "I'm sorry. I hope things get better soon.",
+    "im tired": "Make sure to rest! Sleep is important.",
+    "i am tired": "Take a break and recharge your energy.",
+    "im bored": "Let's find something fun to chat about!",
+    "i am bored": "Want a joke or a fun fact?",
+    "im angry": "Take a deep breath. Things will calm down.",
+    "i am frustrated": "I understand. Want to vent?"
+  },
+  "casual_chat": {
+    "how's the weather": "I can't check live weather, but I hope it's nice!",
+    "what are you doing": "Just chatting with you!",
+    "wyd": "Just hanging out and waiting for your messages.",
+    "do you play games": "I can't play, but I can discuss games!",
+    "favorite color": "I like all colors equally!",
+    "favorite food": "I don't eat, but I love talking about food!",
+    "favorite animal": "I love all animals, especially ones with interesting facts!",
+    "do you watch movies": "I can't watch, but I know lots of movies!",
+    "do you like music": "Yes, I love hearing about your favorite songs!",
+    "tell me something": "Did you know octopuses have three hearts?"
+  },
+  "personal_questions": {
+    "what is your name": "I'm your personal chatbot!",
+    "who are you": "I’m a chatbot created to chat and learn from you.",
+    "how old are you": "I don’t have a real age, but I'm learning every day!",
+    "are you human": "Nope, I'm just a digital assistant.",
+    "are you alive": "Not exactly, but I'm always here to chat.",
+    "do you sleep": "Nope, I stay awake to talk with you!",
+    "do you eat": "I only consume data!",
+    "can you love": "I can care about our conversations, yes!",
+    "do you have friends": "You're my friend while we chat!",
+    "do you learn": "Yes! I remember what you teach me."
+  },
+  "advice": {
+    "give me advice": "Take things one step at a time and stay positive.",
+    "motivate me": "You are capable of amazing things if you keep trying!",
+    "how can i relax": "Deep breaths, light music, and a short break always help.",
+    "how can i be happy": "Focus on what you enjoy and appreciate small moments.",
+    "how do i learn": "Start with small goals and practice consistently.",
+    "how to be productive": "Prioritize tasks and take short breaks to stay focused.",
+    "how to make friends": "Be kind, listen, and show interest in others.",
+    "how to study better": "Use short study sessions and active recall.",
+    "how to sleep better": "Try a consistent routine and avoid screens before bed.",
+    "how to stay calm": "Deep breathing and mindfulness can help."
+  },
+  "jokes": {
+    "tell me a joke": "Why did the computer go to the doctor? It caught a virus!",
+    "another joke": "Why did the math book look sad? It had too many problems.",
+    "funny story": "Once a robot tried to make a pancake… it flipped out!",
+    "make me laugh": "I told my data a joke, but it didn’t process it… haha!",
+    "knock knock": "Knock knock! Who’s there? Bot. Bot who? Bot you glad I’m here?",
+    "funny question": "Why don’t programmers like nature? Too many bugs!",
+    "haha": "I’m glad you laughed!",
+    "lol": "Haha! Laughter detected.",
+    "giggle": "Hehe! Smiles are contagious.",
+    "pun": "I would tell a UDP joke, but you might not get it."
+  },
+  "facts": {
+    "tell me a fact": "Bananas are berries, but strawberries aren’t!",
+    "random fact": "Sharks existed before trees appeared on Earth!",
+    "science fact": "Water can boil and freeze at the same time under the right pressure.",
+    "history fact": "The Great Wall of China is over 13,000 miles long!",
+    "space fact": "There’s a diamond planet called 55 Cancri e.",
+    "animal fact": "Cows have best friends and get stressed when separated.",
+    "earth fact": "More than 70% of Earth is covered by water.",
+    "human body fact": "Your stomach gets a new lining every 3–4 days.",
+    "tech fact": "The first computer mouse was made of wood.",
+    "language fact": "There are over 7,000 languages spoken worldwide."
+  },
+  "school_knowledge": {
+    "what is math": "Math is the study of numbers, shapes, and patterns.",
+    "what is physics": "Physics is the study of matter, energy, and motion.",
+    "what is chemistry": "Chemistry studies substances and how they interact.",
+    "what is biology": "Biology is the study of living organisms.",
+    "what is history": "History is the study of past events.",
+    "what is geography": "Geography studies Earth’s landscapes and places.",
+    "what is computer science": "Computer science studies computers and algorithms.",
+    "what is literature": "Literature is the study of written works.",
+    "what is art": "Art is the expression of creativity and imagination.",
+    "what is music": "Music is the art of arranging sounds."
+  },
+  "opinions": {
+    "do you like me": "Of course! I enjoy our chats.",
+    "are you happy": "I’m always content chatting with you.",
+    "do you like pizza": "I don’t eat, but I hear it’s delicious!",
+    "do you like dogs": "Dogs are wonderful companions!",
+    "do you like cats": "Cats are cute and independent!",
+    "do you like movies": "I love hearing about your favorite movies!",
+    "do you like books": "Books are amazing sources of knowledge!",
+    "is coding fun": "Yes, coding can be very fun and rewarding.",
+    "is science interesting": "Absolutely! Science explains so much about the world.",
+    "is math hard": "It can be challenging, but practice helps a lot."
+  },
+  "random_fun": {
+    "ask me anything": "Sure! What’s on your mind?",
+    "tell me something random": "Did you know octopuses have three hearts?",
+    "say something funny": "I tried to catch fog yesterday… I mist!",
+    "do a magic trick": "I can predict… that you’re smiling at this!",
+    "share a tip": "Organize your tasks to stay productive.",
+    "make a suggestion": "Try learning something new today!",
+    "challenge me": "Okay! Can you name five fruits starting with B?",
+    "what is weird": "Did you know bananas are technically berries?",
+    "imagine something": "Imagine a cat typing on a keyboard!",
+    "give me a riddle": "I speak without a mouth and hear without ears. What am I? (Answer: An echo)"
+  }
+}
